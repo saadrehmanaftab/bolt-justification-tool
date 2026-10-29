@@ -1,0 +1,15 @@
+{
+  "evaluations": 32,
+  "bolts": 8,
+  "load_cases": 4,
+  "failing": 16,
+  "min_mos": -0.8829755268963291,
+  "governing": {
+    "bolt": 3,
+    "load_case": "LC4_cold_-60K",
+    "check": "slip"
+  },
+  "runtime_ms": 9.466041999985464,
+  "preload_nominal_N": 22054.205119398528,
+  "load_factor": 0.13853997340201443
+}

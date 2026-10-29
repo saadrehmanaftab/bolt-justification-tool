@@ -1,0 +1,15 @@
+{
+  "evaluations": 32,
+  "bolts": 8,
+  "load_cases": 4,
+  "failing": 0,
+  "min_mos": 0.10971815813542407,
+  "governing": {
+    "bolt": 3,
+    "load_case": "LC3_hot_+80K",
+    "check": "yield"
+  },
+  "runtime_ms": 6.275055000003249,
+  "preload_nominal_N": 58049.590301135024,
+  "load_factor": 0.16079626816128353
+}

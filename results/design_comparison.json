@@ -1,0 +1,47 @@
+{
+  "M8_10.9": {
+    "evaluations": 32,
+    "bolts": 8,
+    "load_cases": 4,
+    "failing": 16,
+    "min_mos": -0.8829755268963291,
+    "governing": {
+      "bolt": 3,
+      "load_case": "LC4_cold_-60K",
+      "check": "slip"
+    },
+    "runtime_ms": 9.466041999985464,
+    "preload_nominal_N": 22054.205119398528,
+    "load_factor": 0.13853997340201443
+  },
+  "M10_10.9": {
+    "evaluations": 32,
+    "bolts": 8,
+    "load_cases": 4,
+    "failing": 6,
+    "min_mos": -0.42036914693799143,
+    "governing": {
+      "bolt": 3,
+      "load_case": "LC4_cold_-60K",
+      "check": "slip"
+    },
+    "runtime_ms": 6.148324000037064,
+    "preload_nominal_N": 34560.641292958884,
+    "load_factor": 0.1445981205216615
+  },
+  "M12_12.9": {
+    "evaluations": 32,
+    "bolts": 8,
+    "load_cases": 4,
+    "failing": 0,
+    "min_mos": 0.10971815813542407,
+    "governing": {
+      "bolt": 3,
+      "load_case": "LC3_hot_+80K",
+      "check": "yield"
+    },
+    "runtime_ms": 6.275055000003249,
+    "preload_nominal_N": 58049.590301135024,
+    "load_factor": 0.16079626816128353
+  }
+}
